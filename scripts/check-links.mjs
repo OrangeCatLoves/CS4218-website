@@ -3,7 +3,10 @@ import path from 'node:path';
 
 const root = process.cwd();
 const outputDirectory = path.resolve(root, '_site');
-const baseUrl = '/cs4218-website';
+const siteConfig = JSON.parse(
+  await readFile(path.resolve(root, 'site.json'), 'utf8'),
+);
+const baseUrl = siteConfig.baseUrl.replace(/\/$/u, '');
 const htmlFiles = [];
 const cssFiles = [];
 const findings = [];

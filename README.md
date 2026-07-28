@@ -147,7 +147,7 @@ static website is written to `_site/`.
 
 This folder starts with no Git remote. Create a new, empty repository under
 your own account or organisation. Then change `baseUrl` in `site.json` from
-`/cs4218-website` to `/<your-repository-name>` and connect only your repository:
+`/CS4218-website` to `/<your-repository-name>` and connect only your repository:
 
 ```bash
 git add .
