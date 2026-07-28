@@ -1,12 +1,3 @@
-# Independent module website skeleton
-
-An independent MarkBind website for an undergraduate computer science module.
-It provides the course-style header and layout, responsive navigation, search,
-automatic page navigation, and clearly labelled places for your own content.
-
-The site contains no analytics, copied student data, LMS identifiers, deployment
-remote, or live connection to another module website.
-
 ## What is included
 
 ```text
