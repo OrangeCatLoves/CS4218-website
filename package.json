@@ -1,0 +1,20 @@
+{
+  "name": "cs4218-course-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent MarkBind website for CS4218 Software Testing",
+  "scripts": {
+    "serve": "markbind serve",
+    "build": "markbind build && node scripts/clean-output.mjs",
+    "deploy": "npm run validate && markbind deploy --no-build",
+    "audit:independence": "node scripts/audit-independence.mjs",
+    "check:links": "node scripts/check-links.mjs",
+    "validate": "npm run audit:independence && npm run build && npm run check:links"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "markbind-cli": "5.5.3"
+  }
+}

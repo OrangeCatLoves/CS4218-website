@@ -1,0 +1,79 @@
+{
+  "baseUrl": "/cs4218-website",
+  "faviconPath": "images/favicon.svg",
+  "titlePrefix": "CS4218",
+  "titleSuffix": "Software Testing",
+  "timeZone": "Asia/Singapore",
+  "locale": "en-SG",
+
+  "style": {
+    "codeTheme": "light",
+    "codeLineNumbers": true
+  },
+
+  "globalOverride": {
+    "pageNav": "default",
+    "pageNavTitle": "On this page"
+  },
+
+  "pages": [
+    {
+      "src": "index.md",
+      "title": "Welcome to CS4218",
+      "layout": "default.md"
+    },
+    {
+      "glob": "overview/**/*.md",
+      "layout": "default.md"
+    },
+    {
+      "glob": "schedule/**/*.md",
+      "layout": "default.md"
+    },
+    {
+      "src": "project-links.md",
+      "title": "Project Links",
+      "layout": "default.md"
+    },
+    {
+      "src": "other-links.md",
+      "title": "Other Links",
+      "layout": "default.md"
+    }
+  ],
+
+  "pagesExclude": [
+    "**/*-fragment.md"
+  ],
+
+  "enableSearch": true,
+  "headingIndexingLevel": 4,
+
+  "plugins": [
+    "codeBlockCopyButtons",
+    "codeBlockWrapButtons",
+    "dataTable"
+  ],
+
+  "plantumlCheck": false,
+
+  "ignore": [
+    "_site/**",
+    ".git/**",
+    ".github/**",
+    "_markbind/logs/**",
+    "node_modules/**",
+    "scripts/**",
+    ".gitignore",
+    "site.json",
+    "README.md",
+    "package.json",
+    "package-lock.json",
+    "images/content/README.md"
+  ],
+
+  "deploy": {
+    "message": "Update CS4218 course website",
+    "branch": "gh-pages"
+  }
+}
