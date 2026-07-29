@@ -15,7 +15,8 @@ Then reference an image from a Markdown page with:
 <img
   class="content-image content-image-landscape"
   src="{{ baseUrl }}/images/content/welcome-banner.jpg"
-  alt="Students collaborating during a software testing class">
+  alt="Students collaborating during a software testing class"
+/>
 ```
 
 Use `content-image-portrait` for a portrait. Write useful alternative text for

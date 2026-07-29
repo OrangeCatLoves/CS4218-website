@@ -12,6 +12,7 @@ overview/venue.md           Venue and directions
 schedule/index.md           13-week semester schedule
 schedule/week1.md ...       One editable page for every week
 schedule/week13.md
+relevant-links.md              Platforms, resources, and support
 project/index.md             Project overview
 project/setting-up.md        Project environment setup
 project/unit-testing.md      Project unit testing
@@ -19,7 +20,7 @@ project/debugging.md         Project debugging
 project/code-analysis-...md  Project code analysis and coverage
 project/ui-testing.md        Project UI testing
 project/load-testing.md      Project load testing
-other-links.md              Platforms, resources, and support
+relevant-links.md              Platforms, resources, and support
 deadlines-evaluation.md     Deadlines, weights, criteria, and rules
 ```
 
