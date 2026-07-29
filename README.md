@@ -13,7 +13,7 @@ schedule/index.md           13-week semester schedule
 schedule/week1.md ...       One editable page for every week
 schedule/week13.md
 project-links.md            Project destinations
-other-links.md              Platforms, resources, and support
+relevant-links.md              Platforms, resources, and support
 deadlines-evaluation.md     Deadlines, weights, criteria, and rules
 ```
 
@@ -54,7 +54,7 @@ Stop the preview with `Ctrl+C`.
 5. Edit `schedule/week1.md` through `schedule/week13.md`. Each page has prepared
    sections for its overview, outcomes, preparation, core material, applied
    session, follow-up work, resources, recordings, and deadlines.
-6. Add your approved destinations to `project-links.md` and `other-links.md`.
+6. Add your approved destinations to `project-links.md` and `relevant-links.md`.
    Replace a status label such as:
 
    ```html

@@ -28,6 +28,6 @@
   - [Reading Week]({{ baseUrl }}/schedule/readingweek2.html) -->
 
 - [**Project Links**]({{ baseUrl }}/project-links.html)
-- [**Other Links**]({{ baseUrl }}/other-links.html)
+- [**Relevant Links**]({{ baseUrl }}/relevant-links.html)
 
 </site-nav>

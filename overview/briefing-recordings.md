@@ -11,7 +11,9 @@
 <section class="recording-group">
   <h2>TROFOS</h2>
   <div class="recording-card recording-card-single">
-    <p><a href="https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=90f5b68e-05c6-4c23-b96d-b34c00391799" target="_blank" rel="noopener noreferrer">Project Management System Overview</a></p>
+    <p><a href="https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?
+    id=90f5b68e-05c6-4c23-b96d-b34c00391799" target="_blank" rel="noopener noreferrer">Project Management System Overview</a></p>
+    <p><a href="https://trofos-production.comp.nus.edu.sg/" target="_blank" rel="noopener noreferrer">TROFOS Website</a></p>
   </div>
 </section>
 
