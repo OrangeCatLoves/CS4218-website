@@ -52,8 +52,6 @@ CS4218 has a project component. The project has to be completed in teams of five
 Lab attendance is compulsory and graded. If you are doing an internship and unable to attend the lab in person, then email me at gni@nus.edu.sg with proof of internship from the company, and I will review and waive off the attendance requirements. For those students, there will be a mandatory submission for each lab as an alternate arrangement.
 The midterm exam and final exam will be conducted in person (f2f, Examplify, open-book, closed internet). The venue will only be confirmed closer to the exam dates once we have a room allocation.
 
-Project—Details from last semester can be found in https://cs4218.github.io/user-guide/Links to an external site. We are still updating this for current semester.
-
 ---
 
 I look forward to meeting you at the first lecture on Mon, 10 Aug, at 2 PM in COM1-0206!

@@ -31,8 +31,7 @@
       "layout": "default.md"
     },
     {
-      "src": "project-links.md",
-      "title": "Project Links",
+      "glob": "project/**/*.md",
       "layout": "default.md"
     },
     {
