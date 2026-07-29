@@ -11,7 +11,7 @@
   - [Venue]({{ baseUrl }}/overview/venue.html)
 - **Weekly schedule** :expanded:
   - [13-week overview]({{ baseUrl }}/schedule/index.html)
-  - [Week 1]({{ baseUrl }}/schedule/week1.html)
+  <!-- - [Week 1]({{ baseUrl }}/schedule/week1.html)
   - [Week 2]({{ baseUrl }}/schedule/week2.html)
   - [Week 3]({{ baseUrl }}/schedule/week3.html)
   - [Week 4]({{ baseUrl }}/schedule/week4.html)
@@ -25,7 +25,7 @@
   - [Week 11]({{ baseUrl }}/schedule/week11.html)
   - [Week 12]({{ baseUrl }}/schedule/week12.html)
   - [Week 13]({{ baseUrl }}/schedule/week13.html)
-  - [Reading Week]({{ baseUrl }}/schedule/readingweek2.html)
+  - [Reading Week]({{ baseUrl }}/schedule/readingweek2.html) -->
 
 - [**Project Links**]({{ baseUrl }}/project-links.html)
 - [**Other Links**]({{ baseUrl }}/other-links.html)

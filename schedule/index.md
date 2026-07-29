@@ -5,6 +5,7 @@
 
 <header class="page-header">
   <p class="eyebrow">{{ academicYear }} · {{ semester }}</p>
+      <h1 style="color: red;">To Be Updated...</h1>
   <h1>Schedule</h1>
 </header>
 

@@ -5,6 +5,7 @@
 
 <section id="verbatim-schedule-guidelines" class="course-note">
   <header class="page-header">
+    <h1 style="color: red;">To Be Updated...</h1>
     <h1>Schedule, Important Deadlines, and Evaluation Guidelines</h1>
     <p class="page-lead">Note: While no major changes are expected, minor updates to the schedule, deadlines, and guidelines may still occur.</p>
   </header>

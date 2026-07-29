@@ -15,7 +15,7 @@
   </div>
 </section>
 
-<section class="recording-group">
+<!-- <section class="recording-group">
   <h2>Lectures</h2>
 
   <article class="recording-card">
@@ -117,4 +117,4 @@
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">%#UPf%9Y</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 10 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 </section>
-</div>
+</div> -->
