@@ -134,25 +134,31 @@ Validation audits independence, builds all pages, removes source-only material
 from the publishable bundle, and checks generated links and fragments. The
 static website is written to `_site/`.
 
-## Publish to your own repository
+## Publish automatically with GitHub Actions
 
-This folder starts with no Git remote. Create a new, empty repository under
-your own account or organisation. Then change `baseUrl` in `site.json` from
-`/CS4218-website` to `/<your-repository-name>` and connect only your repository:
+The workflow in `.github/workflows/deploy-pages.yml` validates, builds, and
+publishes the website after every push to `main`. Before its first deployment,
+an administrator must open **Settings → Pages** in GitHub and set **Source** to
+**GitHub Actions**.
+
+After that one-time setting, publish a change with the normal Git workflow:
 
 ```bash
 git add .
-git commit -m "Create independent module website"
-git remote add origin https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY.git
-git push -u origin main
+git commit -m "Update course website"
+git push origin main
 ```
 
-Confirm the destination before deployment:
+GitHub Actions installs the locked dependencies, runs `npm run validate`,
+uploads the cleaned `_site/` directory, and deploys it to GitHub Pages. The
+workflow can also be run manually from **Actions → Deploy GitHub Pages → Run
+workflow**.
 
-```bash
-git remote -v
-npm run deploy
-```
+Only `main` is deployed. Work pushed to a feature branch becomes public after
+it is merged into `main`.
 
-The deploy command validates the site, then publishes the cleaned `_site/`
-bundle to the `gh-pages` branch. No remote repository is hard-coded.
+## Manual branch-based deployment
+
+`npm run deploy` remains available as a fallback for repositories configured
+under **Settings → Pages → Deploy from a branch → `gh-pages` → `/(root)`**. Do
+not use this mode at the same time as the GitHub Actions publishing source.
