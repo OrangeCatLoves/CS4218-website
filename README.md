@@ -12,13 +12,19 @@ overview/venue.md           Venue and directions
 schedule/index.md           13-week semester schedule
 schedule/week1.md ...       One editable page for every week
 schedule/week13.md
-project-links.md            Project destinations
+project/index.md             Project overview
+project/setting-up.md        Project environment setup
+project/unit-testing.md      Project unit testing
+project/debugging.md         Project debugging
+project/code-analysis-...md  Project code analysis and coverage
+project/ui-testing.md        Project UI testing
+project/load-testing.md      Project load testing
 other-links.md              Platforms, resources, and support
 deadlines-evaluation.md     Deadlines, weights, criteria, and rules
 ```
 
-There are 25 public pages in total. “Module overview” and “Weekly schedule”
-both expand into their own groups of pages in the course navigation.
+There are 32 public pages in total. “Module overview”, “Weekly schedule”, and
+“Project” expand into their own groups of pages in the course navigation.
 
 ## Prerequisites
 
@@ -54,8 +60,10 @@ Stop the preview with `Ctrl+C`.
 5. Edit `schedule/week1.md` through `schedule/week13.md`. Each page has prepared
    sections for its overview, outcomes, preparation, core material, applied
    session, follow-up work, resources, recordings, and deadlines.
-6. Add your approved destinations to `project-links.md` and `other-links.md`.
-   Replace a status label such as:
+6. Edit the pages inside `project/` for the project overview, setup, unit
+   testing, debugging, code analysis and coverage, UI testing, and load
+   testing. Add approved destinations to `other-links.md`. Replace a status
+   label such as:
 
    ```html
    <span class="link-status">Link to be added</span>

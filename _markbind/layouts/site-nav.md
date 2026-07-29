@@ -26,8 +26,15 @@
   - [Week 12]({{ baseUrl }}/schedule/week12.html)
   - [Week 13]({{ baseUrl }}/schedule/week13.html)
   - [Reading Week]({{ baseUrl }}/schedule/readingweek2.html) -->
+- **Project** :expanded:
+  - [Overview]({{ baseUrl }}/project/index.html)
+  - [Setting Up]({{ baseUrl }}/project/setting-up.html)
+  - [Unit Testing]({{ baseUrl }}/project/unit-testing.html)
+  - [Debugging]({{ baseUrl }}/project/debugging.html)
+  - [Code Analysis/Coverage]({{ baseUrl }}/project/code-analysis-coverage.html)
+  - [UI Testing]({{ baseUrl }}/project/ui-testing.html)
+  - [Load Testing]({{ baseUrl }}/project/load-testing.html)
 
-- [**Project Links**]({{ baseUrl }}/project-links.html)
 - [**Other Links**]({{ baseUrl }}/other-links.html)
 
 </site-nav>
