@@ -54,7 +54,7 @@ The midterm exam and final exam will be conducted in person (f2f, Examplify, ope
 
 ---
 
-I look forward to meeting you at the first lecture on Mon, 10 Aug, at 2 PM in COM1-0206!
+Since 10th August is a public holiday, I will share a course overview video soon. You can listen to that. I look forward to meeting you at the second lecture on Mon, 17 Aug, at 2 PM in COM1-0206!
 
 If you have any questions regarding the module, please feel free to email me (gni@nus.edu.sg).
 
