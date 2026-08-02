@@ -27,7 +27,7 @@
       <tr>
         <th scope="row">01</th>
         <td>Introduction</td>
-        <td></td>
+        <td>No Physical class due to public holiday</td>
         <td></td>
         <td></td>
       </tr>
