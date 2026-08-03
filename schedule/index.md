@@ -38,6 +38,7 @@ Zhengxiong Luo </td><td class="placeholder-text">Milestone 2 submission </td><td
       <tr><th scope="row"><a href="{{ baseUrl }}/schedule/week12.html">Week 12</a></th><td>2 Nov - 6 Nov</td><td>Software Engineering Testing Methods used in AI</td><td class="placeholder-text">Guest Lecture by Mr Rajdeep Hundal</td><td class="placeholder-text">--</td><td></td><td></td></tr>
       <tr><th scope="row"><a href="{{ baseUrl }}/schedule/week13.html">Week 13</a></th><td>9 Nov - 13 Nov</td><td>Public Holiday. No lecture</td><td class="placeholder-text"> Project Presentations  </td><td class="placeholder-text">Milestone 3 submission</td><td></td><td>Sprint 4 review</td></tr>
        <tr><th scope="row"><a href="{{ baseUrl }}/schedule/readingweek2.html">Reading Week</a></th><td>14 Nov - 20 Nov</td><td></td><td class="placeholder-text"> </td><td class="placeholder-text"></td><td></td><td></td></tr>
+       <td>Exam</td><td></td><td>30-Nov-2026 5:00 PM, 2 hrs</td><td>Examsoft, Openbook, Closed-internet</td><td></td><td></td><td></td>
        <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
     </tbody>
   </table>
