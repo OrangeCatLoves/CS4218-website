@@ -16,12 +16,12 @@
         <th scope="col">Week</th>
         <th scopr="col">Date</th>
         <th scope="col">Topic</th>
-        <th scope="col">TODOs</th>
+        <th scope="col">Remarks</th>
         <th scope="col">Deadlines</th>
       </tr>
     </thead>
     <tbody>
-      <tr><th scope="row"><a href="{{ baseUrl }}/schedule/week1.html">Week 1</a></th><td>10 Aug - 14 Aug</td><td>Introduction</td><td class="placeholder-text">Add TODOs</td><td class="placeholder-text">Add deadlines</td></tr>
+      <tr><th scope="row"><a href="{{ baseUrl }}/schedule/week1.html">Week 1</a></th><td>10 Aug - 14 Aug</td><td>Introduction</td><td class="placeholder-text">Public Holiday, No in-person lecture</td><td class="placeholder-text"> - </td></tr>
       <tr><th scope="row"><a href="{{ baseUrl }}/schedule/week2.html">Week 2</a></th><td>17 Aug - 21 Aug</td><td>Unit Testing</td><td class="placeholder-text">Add TODOs</td><td class="placeholder-text">Add deadlines</td></tr>
       <tr><th scope="row"><a href="{{ baseUrl }}/schedule/week3.html">Week 3</a></th><td>24 Aug - 28 Aug</td><td>Integration Testing and Test Metrics</td><td class="placeholder-text">Add TODOs</td><td class="placeholder-text">Add deadlines</td></tr>
       <tr><th scope="row"><a href="{{ baseUrl }}/schedule/week4.html">Week 4</a></th><td>31 Aug - 4 Sep</td><td>Control Flow Graph</td><td class="placeholder-text">Add TODOs</td><td class="placeholder-text">Add deadlines</td></tr>
