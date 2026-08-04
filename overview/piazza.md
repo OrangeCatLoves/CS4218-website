@@ -1,5 +1,5 @@
 <frontmatter>
-  title: "Join Piazza For Discussions"
+  title: "Join Piazza and Telegram For Discussions"
   pageNav: 2
 </frontmatter>
 
@@ -28,6 +28,10 @@
     <a href="mailto:team@piazza.com">team@piazza.com</a>.
   </p>
 
+  <p> For unofficial and quick communications (mostly ad-hoc), we will use Telegram.
+
+  </p>
+
   <div class="piazza-join-card">
     <h2>Join the class discussion</h2>
        <p>
@@ -37,4 +41,10 @@
 
 <p class="recording-passcode piazza-passcode"><span>Access code: <span class="recording-passcode-value piazza-passcode-value">TestingIsFun</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Piazza access code" title="Copy access code"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </div>
+
+  <h2>Join Telegram Group</h2>
+       <p>
+      Find our class Telegram Group link
+      <a href="https://t.me/+dgBqv9ANaAU5MmNl">Here</a>
+    </p>
 </div>
