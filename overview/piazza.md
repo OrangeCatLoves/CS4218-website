@@ -5,7 +5,7 @@
 
 <header class="page-header">
   <p class="eyebrow">Module discussions</p>
-  <h1>Join Piazza For Discussions</h1>
+  <h1>Join Piazza and Telegram For Discussions</h1>
 </header>
 
 <div class="piazza-content">
