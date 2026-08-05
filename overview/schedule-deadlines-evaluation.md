@@ -11,7 +11,12 @@
   </header>
 
 <h2 id="course-note-section-4">Course Schedule</h2>
-
+<div class="hero-actions">
+         <a class="course-button course-button-secondary" href="{{ baseUrl }}/schedule/index.html">
+        View 13-week schedule
+      </a>
+    </div>
+    <!--
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Course Schedule" tabindex="0">
   <table class="wide-data course-note-table course-schedule-table">
     <thead>
@@ -144,7 +149,7 @@ Venue: TBD</td>
     </tbody>
   </table>
 </div>
-
+-->
 <h2 id="course-note-section-89">Graded Components</h2>
 
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Graded Components" tabindex="0">
