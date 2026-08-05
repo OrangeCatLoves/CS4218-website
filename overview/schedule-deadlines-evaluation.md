@@ -12,7 +12,7 @@
 
 <h2 id="course-note-section-4">Course Schedule</h2>
 <div>
-         <a class="course-button course-button-secondary" href="{{ baseUrl }}/schedule/index.html">
+         <a href="{{ baseUrl }}/schedule/index.html">
         View 13-week schedule
       </a>
     </div>
@@ -210,7 +210,7 @@ Venue: TBD</td>
       <tr>
         <th scope="row">Lab Attendance</th>
         <td>2</td>
-        <td>Weeks 3, 4, 5, 7, and 9 10</td>
+        <td>Weeks 3, 4, 5, 7, 9 and 10</td>
       </tr>
       <tr>
         <th scope="row">Final Exam</th>
