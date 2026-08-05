@@ -24,10 +24,12 @@
     },
     {
       "glob": "overview/**/*.md",
+      "title": "Course Overview",
       "layout": "default.md"
     },
     {
       "glob": "schedule/**/*.md",
+      "title": "Schedule",
       "layout": "default.md"
     },
     {
