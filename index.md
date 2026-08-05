@@ -53,10 +53,12 @@ Lab attendance is compulsory and graded. If you are doing an internship and unab
 The midterm exam and final exam will be conducted in person (f2f, Examplify, open-book, closed internet). The venue will only be confirmed closer to the exam dates once we have a room allocation.
 
 ---
+</p>
 
+<span style="color:brown; font-weight: bold;">
 Since 10th August is a public holiday, I will share a course overview video soon. You can listen to that. I look forward to meeting you at the second lecture on Mon, 17 Aug, at 2 PM in COM1-0206!
 
 If you have any questions regarding the module, please feel free to email me (gni@nus.edu.sg).
 
-  </p>
+  </span>
 </div>
