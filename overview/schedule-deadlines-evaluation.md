@@ -175,7 +175,7 @@ Venue: TBD</td>
       <tr>
         <th scope="row">Milestone 2</th>
         <td>10</td>
-        <td>Week 9Week 10</td>
+        <td>Week 9</td>
       </tr>
       <tr>
         <th scope="row">Milestone 3</th>
@@ -195,7 +195,7 @@ Venue: TBD</td>
       <tr>
         <th scope="row">Mid-term Exam</th>
         <td>15</td>
-        <td>Week 7 - Saturday of week 8</td>
+        <td>TBD</td>
       </tr>
       <tr>
         <th scope="row">Quizzes through the semester asynchronous</th>
@@ -295,7 +295,7 @@ Venue: TBD</td>
 <h2 id="course-note-section-164">Team - Project TA Allocation</h2>
 
 <p class="course-note-line">These are the TAs who will be grading your project milestones and sprints throughout the semester. If you have any questions—whether about project expectations (such as implementation details) or about your grades (for example, if you’d like to clarify or contest marks)—please don’t hesitate to reach out to them directly.</p>
-
+<!--
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Team - Project TA Allocation" tabindex="0">
   <table class="wide-data course-note-table ta-allocation-table">
     <thead>
@@ -345,7 +345,7 @@ Venue: TBD</td>
       </tr>
     </tbody>
   </table>
-</div>
+</div>-->
 
 <h2 id="course-note-section-176">All Project Milestones: AI-driven Testing (Group)</h2>
 
@@ -363,23 +363,15 @@ Venue: TBD</td>
 
 <p class="course-note-line">We strongly encourage you to consider incorporating the design and implementation of AI agents in the testing workflow. </p>
 
-<p class="course-note-line">You are required to use AI-driven testing to help you with your testing.</p>
-
-<p class="course-note-line">You are required to come up with a plan for this and include your plan in your MS1 report, progress update in your MS2 report, final update in your final report.</p>
-
-<p class="course-note-line">Your project TAs will take a look at your report and contact you if there are any major issues.</p>
+<p class="course-note-line">You are required to use AI-driven testing to help you with your testing. This needs to be written in the report during MS3 submission and present during final presentations.</p>
 
 <p class="course-note-line">You are required to submit a recorded demo and conduct a live, in-person demo during MS3.</p>
 
 <p class="course-note-label"><strong>Submission:</strong></p>
 
-<p class="course-note-line">MS1: Include your plan in your MS1 report.</p>
+ <p class="course-note-label"><strong>MS3:</strong></p>
 
-<p class="course-note-line">MS2: Include your progress update in your MS2 report.</p>
-
-<p class="course-note-label"><strong>MS3:</strong></p>
-
-<p class="course-note-line">Include your final update in your final report.</p>
+<p class="course-note-line">Include your AI efforts in your final report.</p>
 
 <p class="course-note-line">Include your code and any other artifacts (if any) such as yaml/json config files in your repository under the "ms3" tag. </p>
 
@@ -397,7 +389,7 @@ Venue: TBD</td>
 
 <p class="course-note-line">It may be considered when determining your effort marks for the report.</p>
 
-<p class="course-note-label"><strong>BUDGET</strong></p>
+<!--<p class="course-note-label"><strong>BUDGET</strong></p>
 
 <p class="course-note-label"><strong>Each team of 5:</strong></p>
 
@@ -427,7 +419,7 @@ Venue: TBD</td>
 
 <p class="course-note-line">As a NUS student, you already have access to Gemini Code Assist via the SoC Google Workspace for Education account.</p>
 
-<p class="course-note-line">Instead, explore the use of AI agents with new tools/technology such as n8n.</p>
+<p class="course-note-line">Instead, expl-->
 
 <h2 id="course-note-section-219">Project Milestone 1: 10% - Recess Week Monday 12 PM</h2>
 
@@ -546,11 +538,6 @@ Tests: x passed,  x total
 
 <p class="course-note-line">The report has a strict 2 page limit per person.</p>
 
-<p class="course-note-line">Also include your group's plan for AI-driven testing (strict 1 page limit). </p>
-
-<p class="course-note-line">How do you intend to use AI to help with testing?</p>
-
-<p class="course-note-line">Why do you think it will be useful?</p>
 
 <p class="course-note-line">...</p>
 
@@ -607,7 +594,7 @@ Tests: x passed,  x total
   </table>
 </div>
 
-<h2 id="course-note-section-297">Project Milestone 2: 10% - Week 09 10 Monday 12 PM</h2>
+<h2 id="course-note-section-297">Project Milestone 2: 10% - Week 09 Monday 12 PM</h2>
 
 <h3 id="course-note-section-300">Integration Tests 2% (Individual) </h3>
 
@@ -773,14 +760,6 @@ Tests: x passed,  x total
 
 <p class="course-note-line">Add 2 more pages to your existing individual report with your approach for both Integration and UI tests (which approach you selected, why, etc.) and graphical test statistics for MS2 (things such as # of test identified, # tests automated, # of bugs identified, # of bugs fixed, etc.).</p>
 
-<p class="course-note-label"><strong>Add 1 more page to include your group's progress for AI driven testing.</strong></p>
-
-<p class="course-note-line">What have you done so far?</p>
-
-<p class="course-note-line">How effective was it?</p>
-
-<p class="course-note-line">Any improvements/changes you intend to make?</p>
-
 <p class="course-note-line">Add 2 more pages to include your group's code coverage report.</p>
 
 <p class="course-note-line">Feel free to update any details from MS1.</p>
@@ -791,13 +770,13 @@ Tests: x passed,  x total
 
 <p class="course-note-line">Effort marks will be awarded based on the quality and depth of the report content (compared against your peers).</p>
 
-<p class="course-note-line">The report has a strict 2 page limit for the individual component, a strict 1 page limit for the group AI-driven testing component, and a strict 2 page limit for the code coverage component.</p>
+<p class="course-note-line">The report has a strict 2 page limit for the individual component, and a strict 2 page limit for the code coverage component.</p>
 
 <p class="course-note-label"><strong>Submission on Canvas:</strong></p>
 
 <p class="course-note-line">Collate the reports from your team members and submit one pdf file on Canvas (only one member needs to make the submission for the whole team).</p>
 
-<p class="course-note-label"><strong>For example, a 5 member team should submit a 24 page pdf file on Canvas:</strong></p>
+<p class="course-note-label"><strong>For example, a 5 member team should submit a 22 page pdf file on Canvas:</strong></p>
 
 <p class="course-note-line">First 2 pages by member A (MS1)</p>
 
@@ -810,10 +789,6 @@ Tests: x passed,  x total
 <p class="course-note-line">...</p>
 
 <p class="course-note-line">Page 21 and 22: Group's Code Coverage Report (MS2)</p>
-
-<p class="course-note-line">Page 23: Group's plan for AI-driven testing (MS1, not graded but may be considered when determining effort marks)</p>
-
-<p class="course-note-line">Page 24: Group's progress for AI-driven testing (MS2, not graded but may be considered when determining effort marks)</p>
 
 <p class="course-note-line">For the individual sections of the report, include a footer on every page stating your name and student ID (e.g., John Doe, A0123456B).</p>
 
@@ -850,7 +825,7 @@ Tests: x passed,  x total
   </table>
 </div>
 
-<h2 id="course-note-section-405">Project Milestone 3: 15 % - Week 13 Monday 12 PM</h2>
+<h2 id="course-note-section-405">Project Milestone 3: 15 % - Week 13 Monday 12 PM; -- Details below will be updated soon</h2>
 
 <h3 id="course-note-section-408">Non Functional Testing 4% (Individual) </h3>
 
@@ -1139,7 +1114,7 @@ Tests: x passed,  x total
   </table>
 </div>
 
-<h2 id="course-note-section-533">Mid-term: 15 % - Week 07 during the lecture Saturday of Week 8</h2>
+<h2 id="course-note-section-533">Mid-term: 15 % - Date/Time/Venue - TBD</h2>
 
 <p class="course-note-line">Examplify based exam.</p>
 
