@@ -11,7 +11,7 @@
   </header>
 
 <h2 id="course-note-section-4">Course Schedule</h2>
-<div class="hero-actions">
+<div>
          <a class="course-button course-button-secondary" href="{{ baseUrl }}/schedule/index.html">
         View 13-week schedule
       </a>
