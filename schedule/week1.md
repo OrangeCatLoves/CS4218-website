@@ -8,8 +8,7 @@
   <h1>Week 1: <span class="placeholder-text">Course Introduction</span></h1>
   <div class="meta-row">
     <span class="meta-chip">In week1, we introduce the course. You will get an overview of the course, its structure, and assessment criteria. All the materials discussed in the class will be available in Canvas. </span>
-    <span class="meta-chip"></span>
-  </div>
+    </div>
 </header>
 
 <div class="essential-question">
