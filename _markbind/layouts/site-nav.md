@@ -12,7 +12,7 @@
 - **Weekly schedule** :expanded:
   - [13-week overview]({{ baseUrl }}/schedule/index.html)
   - [Week 1]({{ baseUrl }}/schedule/week1.html)
-  - - [Week 2]({{ baseUrl }}/schedule/week2.html)
+  - [Week 2]({{ baseUrl }}/schedule/week2.html)
    <!-- - [Week 3]({{ baseUrl }}/schedule/week3.html)
   - [Week 4]({{ baseUrl }}/schedule/week4.html)
   - [Week 5]({{ baseUrl }}/schedule/week5.html)

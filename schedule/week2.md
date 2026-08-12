@@ -7,8 +7,7 @@
   <p class="eyebrow">Week 2 · 17 Aug - 21 Aug</p>
   <h1>Week 2: <span class="placeholder-text">Unit Testing</span></h1>
   <div class="meta-row">
-    <span class="meta-chip"></span>
-    <span class="meta-chip">Unit testing is a software development process where the smallest testable parts of an application, called units, are individually and independently checked for proper operation. The goal is to isolate each part of the program and show that the individual parts are correct.</span>
+       <span class="meta-chip">Unit testing is a software development process where the smallest testable parts of an application, called units, are individually and independently checked for proper operation. The goal is to isolate each part of the program and show that the individual parts are correct.</span>
   </div>
 </header>
 
@@ -20,7 +19,7 @@
 
 ## Key Concepts
 
-<div class="content-placeholder" data-placeholder="week-2-overview">
+<div>
   <p>
   
   * Unit: A unit is the smallest testable component of an application. In object-oriented programming, this is typically a method or a function. 
