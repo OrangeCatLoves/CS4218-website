@@ -60,7 +60,7 @@ For example, a simple unit test for a function that adds two numbers would arran
 
 ## Deadlines this week
 
-<div class="content-placeholder" data-placeholder="week-2-deadlines">
+<div>
   <p>Project Team formation by Week 2 Friday 12 noon Singapore time in Canvas</p>
 </div>
 
