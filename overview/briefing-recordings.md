@@ -17,22 +17,17 @@
   </div>
 </section>
 
-<!-- <section class="recording-group">
+<section class="recording-group">
   <h2>Lectures</h2>
 
-  <article class="recording-card">
-    <h3>Week 1 - Introduction</h3>
-    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/ju43lPe66OFq4R0A_ORx0boL10uY8d6TeqWVxeETEsKnsaRw0-nCYHDP8J1tRtH3.8S6cX8WGy4WR1hK-" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/ju43lPe66OFq4R0A_ORx0boL10uY8d6TeqWVxeETEsKnsaRw0-nCYHDP8J1tRtH3.8S6cX8WGy4WR1hK-</a></p>
-    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">*$yg2U%9</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 1 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
-  </article>
-
+  
   <article class="recording-card">
     <h3>Week 2 - Unit Testing</h3>
-    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/LjRk7x0cyZih3oeVL4RhwWp09OxrSTYXQ08k1UUd7G2Q2yBm8snpVl2FkEcyA6oH.6rlTk-eLkipWO6z7" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/LjRk7x0cyZih3oeVL4RhwWp09OxrSTYXQ08k1UUd7G2Q2yBm8snpVl2FkEcyA6oH.6rlTk-eLkipWO6z7</a></p>
-    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">&amp;%q5cQj0</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 2 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/fk-Mc4zLW6mJtpAP5vttfFxzCILMGSXNbz-97URtK5bIqq4GnoaV0068jNalwGZW.1VWxMcfHoxAX7nrP" target="_blank" rel="noopener noreferrer">UNIT TESTING</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">&amp;Up*nLt4A</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 2 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
-  <article class="recording-card">
+  <!-- <article class="recording-card">
     <h3>Week 3 - Integration Testing and Code Coverage</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q</a></p>
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">7Z^?U6jJ</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 3 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
