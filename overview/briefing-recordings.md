@@ -24,7 +24,7 @@
   <article class="recording-card">
     <h3>Week 2 - Unit Testing</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/fk-Mc4zLW6mJtpAP5vttfFxzCILMGSXNbz-97URtK5bIqq4GnoaV0068jNalwGZW.1VWxMcfHoxAX7nrP" target="_blank" rel="noopener noreferrer">UNIT TESTING</a></p>
-    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">&amp;Up*nLt4A</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 2 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">Up*nLt4A</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 2 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
   <!-- <article class="recording-card">
