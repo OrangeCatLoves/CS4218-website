@@ -102,4 +102,47 @@ Tests: x passed,  x total
 </div>
 
 ## Report 👤
-NEXT
+
+<div class="callout callout-info">
+  <div class="callout-title">Weightage</div>
+  <p>This section is worth <strong>4%</strong> of your final grade.</p>
+</div>
+
+Your report should cover two key components:
+
+- A brief description of your unit test approach — which approach you selected and why.
+- Test statistics presented in a graphical way (e.g., pie charts, bar charts), covering things such as the number of tests identified, tests automated, bugs identified, and bugs fixed. Tables are **not** counted as graphs.
+
+The report has a strict **2 page limit**.
+
+### Grading Rubric
+
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 1: 10% - Recess Week Monday 12 PM — Report 4% (Individual) — Grading Rubric" tabindex="0">
+  <table class="wide-data course-note-table course-note-rubric">
+    <thead>
+      <tr>
+        <th scope="col">Approach Description (2%)</th>
+        <th scope="col">Graphical Test Statistics (2%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0: Poor or missing approach description</td>
+        <td>0: Poor or missing graphical statistics</td>
+      </tr>
+      <tr>
+        <td>1: Adequate approach description</td>
+        <td>1: Adequate graphical statistics</td>
+      </tr>
+      <tr>
+        <td>2: Clear and well-reasoned approach description</td>
+        <td>2: Clear and well-presented graphical statistics</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>Collate the reports from your group members and submit one PDF on Canvas (only one member needs to make the submission for the whole group).</p>
+</div>
