@@ -1,38 +1,48 @@
 <frontmatter>
-  title: Topic 1
-  pageNav: 4
-  pageNavTitle: "Topics"
+  title: "Project Overview"
 </frontmatter>
 
-<br>
+# Project Overview
 
-# MERN Stack Ecommerce Project Overview
+- **Milestone 1** (10%) — focuses on Unit Testing
+- **Milestone 2** (10%) — focuses on Integration Testing and User Interface Testing
+- **Milestone 3** (15%) — focuses on Non-functional Testing and AI-driven Testing
+- **Project Management** (2%) — spread across all three milestones
 
-## Introduction
+<div class="callout callout-info">
+  <div class="callout-title">Scope</div>
+  <p>The details mentioned in the sections below apply to <strong>all</strong> milestones.</p>
+</div>
 
-Welcome to our `MERN` stack ecommerce project! This project is developed using the `MERN` (MongoDB, Express.js, React.js, Node.js) stack, providing a robust and scalable solution for building ecommerce websites.
+## How Components Are Graded
 
-## Website Features
+Most components are **individual** (👤), while some are **group** (👥).
 
-- **User Authentication**: Secure user authentication system implemented to manage user accounts and sessions.
-- **Payment Gateway Integration**: Seamless integration with popular payment gateways for secure and reliable online transactions.
-- **Search and Filters**: Advanced search functionality and filters to help users easily find products based on their preferences.
-- **Product Set**: Organized product sets for efficient navigation and browsing through various categories and collections.
+- **Individual (👤)** — every group member completes the component, with the workload divided evenly among the group. Each person's work is graded separately.
+- **Group (👥)** — the component is a joint effort, and all members receive the same grade.
 
-## Your Task
+## Contribution Marking
 
-- **Unit and Integration Testing**: Utilize `Jest` for writing and running tests to ensure individual components and functions work as expected, finding and fixing bugs in the process.
-- **UI Testing**: Utilize `Playwright` for UI testing to validate the behavior and appearance of the website's user interface.
-- **Code Analysis and Coverage**: Utilize `SonarQube` for static code analysis and coverage reports to maintain code quality and identify potential issues.
-- **Load Testing**: Leverage `JMeter` for load testing to assess the performance and scalability of the ecommerce platform under various traffic conditions.
+For every individual component, indicate each member's workload (i.e., who did what) in your repository's **README file** clearly. For example, if the component is Unit Tests in Milestone 1:
 
-We're excited to see the innovative contributions and enhancements that students will bring to this project, making it even more robust and user-friendly!
+```
+# Unit Tests
+Member A: FileA.js, FileB.js, FileC.js
+Member B: FileD.js, FileE.js, FileF.js
+Member C: FileG.js, FileH.js, FileI.js
+```
 
-<!-- ## Project Details
+Furthermore, for every file you create or edit, add a comment at each location where you contributed, indicating your name and student ID (e.g., `// John Doe, A0123456B`). If a file is entirely your own work, a single comment at the top of the file is sufficient. This lets graders clearly identify individual contributions and mark your work efficiently.
 
-Students participating in this project will have the opportunity to contribute to various aspects such as:
+<div class="callout callout-danger">
+  <div class="callout-title">Penalty</div>
+  <p>Failure to follow any of the above may result in a <strong>1 mark deduction</strong>, depending on severity.</p>
+</div>
 
-- Find bugs in the existing codebase and fix them to improve the overall stability and functionality of the ecommerce platform.
-- Writing unit tests and UI tests to ensure the reliability and quality of the codebase.
-- Analyzing code quality and coverage metrics using SonarQube and making improvements as necessary.
-- Conducting load testing with JMeter to evaluate and optimize the website's performance under load. -->
+## Additional Notes
+
+- There is no limit on the number of tests you write — write as many as you require.
+- You are required to fix any bugs found during testing.
+- We have provided a **Suggested Testing Scope on Canvas** to help you plan what to cover.
+
+While the grading rubrics outline the criteria we look for, they are intended as guiding frameworks rather than exhaustive answer sheets. Students are expected to exercise critical thinking in determining what to prioritise and include in their code and report. Those who demonstrate stronger judgment and deeper understanding in this regard may be awarded more marks, while those who show weaker judgment may receive fewer.

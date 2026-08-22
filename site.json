@@ -44,7 +44,13 @@
   ],
 
   "pagesExclude": [
-    "**/*-fragment.md"
+    "**/*-fragment.md",
+    "project/setting-up.md",
+    "project/unit-testing.md",
+    "project/debugging.md",
+    "project/code-analysis-coverage.md",
+    "project/ui-testing.md",
+    "project/load-testing.md"
   ],
 
   "enableSearch": true,

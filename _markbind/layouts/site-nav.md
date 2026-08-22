@@ -28,12 +28,15 @@
   - [Reading Week]({{ baseUrl }}/schedule/readingweek2.html) -->
 - **Project** :expanded:
   - [Overview]({{ baseUrl }}/project/index.html)
+  - [Milestone 1]({{ baseUrl }}/project/milestone-1.html)
+  <!--
   - [Setting Up]({{ baseUrl }}/project/setting-up.html)
   - [Unit Testing]({{ baseUrl }}/project/unit-testing.html)
   - [Debugging]({{ baseUrl }}/project/debugging.html)
   - [Code Analysis/Coverage]({{ baseUrl }}/project/code-analysis-coverage.html)
   - [UI Testing]({{ baseUrl }}/project/ui-testing.html)
   - [Load Testing]({{ baseUrl }}/project/load-testing.html)
+  -->
 
 <!--- [**Project Links**]({{ baseUrl }}/project-links.html)-->
 - [**Relevant Links**]({{ baseUrl }}/relevant-links.html)
