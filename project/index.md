@@ -39,6 +39,25 @@ Furthermore, for every file you create or edit, add a comment at each location w
   <p>Failure to follow any of the above may result in a <strong>1 mark deduction</strong>, depending on severity.</p>
 </div>
 
+## Report Conventions
+
+Individual reports are to be collated into a single report and submitted on Canvas. For example, a 5-member group's report for Milestone 1 would be a 10-page PDF:
+
+- First 2 pages by Member A
+- Next 2 pages by Member B
+- Next 2 pages by Member C
+- Next 2 pages by Member D
+- Next 2 pages by Member E
+
+For the individual sections of the report, include a footer on every page stating your name and student ID (e.g., John Doe, A0123456B).
+
+A report cover page is optional and not necessary as long as it is clear who did what. Should you decide to include a cover page, it will **not** be counted towards the page limit.
+
+<div class="callout callout-danger">
+  <div class="callout-title">Penalty</div>
+  <p>Failure to follow any of the above may result in a <strong>1 mark deduction</strong>, depending on severity.</p>
+</div>
+
 ## Additional Notes
 
 - There is no limit on the number of tests you write — write as many as you require.
