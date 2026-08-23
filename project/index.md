@@ -10,8 +10,8 @@
 - **Project Management** (2%) — spread across all three milestones
 
 <div class="callout callout-info">
-  <div class="callout-title">Scope</div>
-  <p>The details mentioned in the sections below apply to <strong>all</strong> milestones.</p>
+  <div class="callout-title">Project TA</div>
+  <p>If you have any project-related questions — for example, implementation details, testing approaches, or clarification of project requirements — contact your respective Project TA via Telegram or email directly, as they will be responsible for grading your work. Your Project TA is not necessarily your Lab TA — refer to the Project TA allocation in the first lab's slides.</p>
 </div>
 
 ## How Components Are Graded
