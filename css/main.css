@@ -1059,12 +1059,27 @@ header .navbar .nav-link[aria-current="page"]::after {
   overflow-wrap: anywhere;
 }
 
+.course-note-table tr.graded-group-row td {
+  border-top: 1px solid var(--color-border);
+  background: var(--color-surface-soft);
+}
+
+.course-note-table tr.graded-group-row td:first-child {
+  color: var(--color-brand);
+  font-weight: 700;
+}
+
 .table-scroll .course-schedule-table {
   min-width: 1050px;
 }
 
 .table-scroll .graded-components-table {
   min-width: 720px;
+}
+
+.graded-components-table th:nth-child(2),
+.graded-components-table td:nth-child(2) {
+  text-align: left;
 }
 
 .table-scroll .ta-allocation-table {
