@@ -31,7 +31,7 @@
       <tr><td>Milestone 1</td><td>10</td><td>Recess Week</td></tr>
       <tr><td>Milestone 2</td><td>10</td><td>Week 9</td></tr>
       <tr><td>Milestone 3</td><td>15</td><td>Week 13</td></tr>
-      <tr><td>Project Management</td><td>2</td><td>Week 7 to Week 13</td></tr>
+      <tr><td>Project Management</td><td>2</td><td>Week 9 and Week 11</td></tr>
       <tr class="graded-group-row"><td>Continuous Assessment Tests</td><td></td><td></td></tr>
       <tr><td>Mid-term Exam</td><td>15</td><td>TBD</td></tr>
       <tr><td>Asynchronous Quizzes</td><td>6</td><td>Week 2 to Week 12</td></tr>
