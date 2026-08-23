@@ -7,7 +7,7 @@
   - [Join Piazza and Telegram]({{ baseUrl }}/overview/piazza.html)
   - [FAQ]({{ baseUrl }}/overview/faq.html)
   - [Schedule, Deadlines & Evaluation]({{ baseUrl }}/overview/schedule-deadlines-evaluation.html)
-  - [Course Policies]({{ baseUrl }}/overview/course-policies.html)
+  - [Module Policies]({{ baseUrl }}/overview/course-policies.html)
   - [Weekly Briefing Recordings]({{ baseUrl }}/overview/briefing-recordings.html)
   - [Venue]({{ baseUrl }}/overview/venue.html)
 - **Weekly schedule** :expanded:

@@ -1,11 +1,11 @@
 <frontmatter>
-  title: "Course Policies"
+  title: "Module Policies"
   pageNav: 2
 </frontmatter>
 
 <section id="course-policies" class="course-note">
   <header class="page-header">
-    <h1>Course Policies</h1>
+    <h1>Module Policies</h1>
   </header>
 
 <h2>Showcasing Outstanding Student Work</h2>
