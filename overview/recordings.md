@@ -1,11 +1,11 @@
 <frontmatter>
-  title: "Weekly Briefing Recordings"
+  title: "Recordings"
   pageNav: 2
 </frontmatter>
 
-<div id="verbatim-briefing-recordings" class="recordings-page">
+<div id="verbatim-recordings" class="recordings-page">
 <header class="page-header recordings-page-header">
-  <h1>Weekly Briefing Recordings</h1>
+  <h1>Recordings</h1>
 </header>
 
 <section class="recording-group">

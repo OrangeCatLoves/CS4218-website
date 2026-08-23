@@ -6,7 +6,7 @@ overview/index.md           Module overview
 overview/instructor.md      Meet the Instructor
 overview/piazza.md          Join Piazza For Discussions
 overview/faq.md             FAQ
-overview/briefing-...md     Weekly Briefing Recordings
+overview/recordings.md         Recordings
 overview/venue.md           Venue and directions
 schedule/index.md           13-week semester schedule
 schedule/week1.md ...       One editable page for every week
