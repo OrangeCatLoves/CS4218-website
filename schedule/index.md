@@ -1,11 +1,11 @@
 <frontmatter>
-  title: "13-week schedule"
+  title: "13-week Schedule"
   pageNav: 2
 </frontmatter>
 
 <header class="page-header">
   <p class="eyebrow">{{ academicYear }} · {{ semester }}</p>
-        <h1>Schedule</h1>
+        <h1>13-week Schedule</h1>
 </header>
 
 <div class="table-scroll" role="region" aria-label="Thirteen-week module schedule" tabindex="0">

@@ -10,7 +10,7 @@
   - [Venue]({{ baseUrl }}/overview/venue.html)
   - [FAQ]({{ baseUrl }}/overview/faq.html)
 - **Weekly Schedule** :expanded:
-  - [13-week overview]({{ baseUrl }}/schedule/index.html)
+  - [13-week Schedule]({{ baseUrl }}/schedule/index.html)
   - [Week 1]({{ baseUrl }}/schedule/week1.html)
   - [Week 2]({{ baseUrl }}/schedule/week2.html)
    <!-- - [Week 3]({{ baseUrl }}/schedule/week3.html)
