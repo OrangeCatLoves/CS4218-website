@@ -9,7 +9,7 @@
 </header>
 
 <div class="table-scroll" role="region" aria-label="Thirteen-week module schedule" tabindex="0">
-  <table class="wide-data">
+  <table class="wide-data schedule-table">
     <thead>
       <tr>
         <th scope="col">Week</th>

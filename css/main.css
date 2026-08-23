@@ -992,6 +992,17 @@ header .navbar .nav-link[aria-current="page"]::after {
   min-width: 100%;
 }
 
+.table-scroll .schedule-table th:nth-child(1),
+.table-scroll .schedule-table td:nth-child(1) {
+  min-width: 4rem;
+}
+
+.table-scroll .schedule-table th:nth-child(2),
+.table-scroll .schedule-table td:nth-child(2) {
+  min-width: 8rem;
+  white-space: nowrap;
+}
+
 #course-content table caption {
   padding: 0 0 10px;
   color: var(--color-brand);
