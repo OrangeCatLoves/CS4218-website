@@ -836,26 +836,6 @@ Tests: x passed,  x total
 </div>
 -->
 
-<h2 id="course-note-section-542">Lab Attendance: 2%</h2>
-
-<p class="course-note-line">There are 5 labs in total; each lab counts for 0.5% of the attendance marks, up to a maximum of 2%.</p>
-
-<p class="course-note-line">You only need to attend 4 labs to attain the full 2%.</p>
-
-<p class="course-note-line">Each lab has a lab exercise (not graded) and will be recorded.</p>
-
-<p class="course-note-line">Scan the attendance QR code shown in lab for your attendance marks. </p>
-
-<p class="course-note-line">Students with special approval to skip labs (e.g., due to internships) or happen to be unwell (MC submission required) will need to submit the lab exercise on Canvas to earn the 0.5% attendance marks.</p>
-
-<p class="course-note-line">The submission will be due on Sunday 12:00 PM, on the same week.</p>
-
-<p class="course-note-line">You need only attempt the lab exercise to attain the 0.5% (your solution does not need to be correct).</p>
-
-<p class="course-note-line">This is only for those with valid reasons (e.g., special approval/feeling unwell). If your reason is not valid, you will not be awarded attendance marks.</p>
-
-<p class="course-note-line">If you are unsure, do check with your Lab TA first.</p>
-
 <h2 id="course-note-section-562">Final Exam: 40%</h2>
 
 <p class="course-note-line">Examplify based exam.</p>

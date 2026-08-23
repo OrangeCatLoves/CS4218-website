@@ -51,14 +51,30 @@
 
 <p>There will be multiple quizzes throughout the semester, each asynchronous. Some solutions will be discussed during the weekly briefings and will be available as recordings.</p>
 
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>Submit your quiz on Canvas. You get <strong>two attempts</strong> per quiz, and your <strong>best attempt</strong> will be taken for marking.</p>
+</div>
+
 <div class="callout callout-warning">
   <div class="callout-title">Deadline</div>
   <p>You have from one <strong>Monday evening</strong> to the next <strong>Sunday midnight</strong> to complete each quiz. As per module policy, <strong>no extensions will be granted</strong>.</p>
 </div>
 
+<h2>Lab Attendance</h2>
+
+<p>There are 6 labs in total; each lab counts for 0.5% of the attendance marks, up to a maximum of 2%. You only need to attend 4 labs to attain the full 2%. Each lab has a lab exercise — not graded for those that attended the lab — and will be recorded. Scan the attendance QR code shown in lab for your attendance marks.</p>
+
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
-  <p>Submit your quiz on Canvas. You get <strong>two attempts</strong> per quiz, and your <strong>best attempt</strong> will be taken for marking.</p>
+  <p>If you did not attend the lab because of a valid reason (e.g., internship or feeling unwell), watch the lab recording and submit the lab exercise on Canvas. You need only attempt the lab exercise to attain the 0.5%. Your solution does not need to be correct but it needs to be a reasonable attempt. If you are unsure whether your reason is valid or not, do check with your Lab TA first. Internship proof is required for those on internships, and MC submission is required for those feeling unwell.</p>
+
+  <strong>If you attended the lab, you do NOT need to submit the lab exercise.</strong>
+</div>
+
+<div class="callout callout-warning">
+  <div class="callout-title">Deadline</div>
+  <p>Online submissions for lab exercises are due <strong>Sunday 12:00 PM</strong> on the same week.</p>
 </div>
 
 <!--
