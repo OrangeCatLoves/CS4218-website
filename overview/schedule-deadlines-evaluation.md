@@ -347,6 +347,7 @@ Venue: TBD</td>
   </table>
 </div>-->
 
+<!--
 <h2 id="course-note-section-176">All Project Milestones: AI-driven Testing (Group)</h2>
 
 <p class="course-note-line">AI-driven testing refers to the use of AI-assisted techniques or tools to automate and enhance the testing process.</p>
@@ -389,6 +390,7 @@ Venue: TBD</td>
 
 <p class="course-note-line">It may be considered when determining your effort marks for the report.</p>
 
+-->
 <!--<p class="course-note-label"><strong>BUDGET</strong></p>
 
 <p class="course-note-label"><strong>Each team of 5:</strong></p>
@@ -421,6 +423,7 @@ Venue: TBD</td>
 
 <p class="course-note-line">Instead, expl-->
 
+<!--
 <h2 id="course-note-section-219">Project Milestone 1: 10% - Recess Week Monday 12 PM</h2>
 
 <h3 id="course-note-section-222">Unit Tests 5% (Individual)</h3>
@@ -1113,6 +1116,7 @@ Tests: x passed,  x total
     </tbody>
   </table>
 </div>
+-->
 
 <h2 id="course-note-section-533">Mid-term: 15 % - Date/Time/Venue - TBD</h2>
 
