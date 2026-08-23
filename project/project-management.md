@@ -6,7 +6,7 @@
 
 <div class="callout callout-warning">
   <div class="callout-title">Deadline</div>
-  <p>A sprint ends on <strong>Monday, 12:00 PM</strong> of the respective sprint review week.</p>
+  <p>The majority of your stories should be up by <strong>Thursday, 12:00 PM</strong> of the respective sprint planning week. A sprint ends on <strong>Monday, 12:00 PM</strong> of the respective sprint review week.</p>
 </div>
 
 <div class="callout callout-info">
@@ -14,21 +14,16 @@
   <p>This section is worth <strong>2%</strong> of your final grade.</p>
 </div>
 
-- There is **2% individual** grading for project management.
-- You are to use **TROFOS** and create stories for all of the sprints. However, only **Sprint 3 (1%)** and **Sprint 4 (1%)** will be graded.
-
-## Sprint Criteria
-
-- Stories are specific, doable, and with the right objectives based on your assigned task.
-  - Your story should have a **title** (e.g., UI tests for Dashboard).
-  - Your story should also have a **description** which describes in more detail exactly what you would be testing (e.g., which interactions of the dashboard you would be testing).
-  - As a rule of thumb, a story should be minimally **4 hours** or work (**1 point on TROFOS = 4 hours of work**).
-- Stories reflect right status at the beginning and end of each sprint (not started, in progress, completed, etc).
-- There are **at least 5 stories**.
-- Stories should be **assigned to you** and should have a **deadline**.
-- Stories were created by **Thursday, 12:00 PM**, of the respective sprint planning week.
+The project consists of **5 sprints**: Sprints 1 and 2 are for Milestone 1, Sprint 3 is for Milestone 2, and Sprints 4 and 5 are for Milestone 3. A sprint is a fixed period of work during which your group plans, completes, and reviews a defined set of tasks (stories). At the start of each sprint, decide as a group who does what, then create your corresponding stories and complete them as you work throughout the sprint. You may add on additional stories as needed anytime during the sprint, or shift uncompleted stories to the next sprint. Only **Sprint 3 (1%)** and **Sprint 4 (1%)** will be graded.
 
 ## Grading Rubric
+
+Your stories should follow the following key requirements:
+- Your stories are specific, doable, and with the right objectives based on your assigned task. Each story should have a **title** (e.g., UI tests for Dashboard) and a **description** detailing exactly what you will be testing (e.g., which interactions of the dashboard you would be testing). As a rule of thumb, a story should be a minimum of **4 hours of work** (**1 point on TROFOS = 4 hours of work**).
+- Your stories reflect right status at the beginning and end of each sprint (not started, in progress, completed, etc).
+- Your stories should be **assigned to you** and should have a **deadline**.
+- Majority of your stories were created by **Thursday, 12:00 PM**, of the respective sprint planning week.
+- You have **at least 5 stories**.
 
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Management: 2% — Grading Rubric" tabindex="0">
   <table class="wide-data course-note-table course-note-rubric">
@@ -40,13 +35,23 @@
     </thead>
     <tbody>
       <tr>
-        <td>0: At least one story does not meet the sprint criteria or there are less than 5 stories.</td>
-        <td>0: At least one story does not meet the sprint criteria or there are less than 5 stories.</td>
+        <td>0: At least one story does not meet the key requirements.</td>
+        <td>0: At least one story does not meet the key requirements.</td>
       </tr>
       <tr>
-        <td>1: All stories adheres to the sprint criteria and there are at least 5 stories.</td>
-        <td>1: All stories adheres to the sprint criteria and there are at least 5 stories.</td>
+        <td>1: All stories adhere to the key requirements.</td>
+        <td>1: All stories adhere to the key requirements.</td>
       </tr>
     </tbody>
   </table>
+</div>
+
+<div class="callout callout-danger">
+  <div class="callout-title">Note</div>
+  <p>The story count (at least 5 stories) and the requirement that the majority of stories are created by <strong>Thursday, 12:00 PM</strong> of the respective sprint planning week will also be taken into account when grading. Failure to follow these will result in a score of <strong>0</strong>.</p>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>All stories are to be created and completed on <strong>TROFOS</strong>.</p>
 </div>
