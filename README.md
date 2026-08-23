@@ -6,7 +6,6 @@ overview/index.md           Module overview
 overview/instructor.md      Meet the Instructor
 overview/piazza.md          Join Piazza For Discussions
 overview/faq.md             FAQ
-overview/schedule-...md     Schedule, deadlines, and evaluation guide
 overview/briefing-...md     Weekly Briefing Recordings
 overview/venue.md           Venue and directions
 schedule/index.md           13-week semester schedule
@@ -24,7 +23,7 @@ relevant-links.md              Platforms, resources, and support
 deadlines-evaluation.md     Deadlines, weights, criteria, and rules
 ```
 
-There are 32 public pages in total. “Module overview”, “Weekly schedule”, and
+There are 31 public pages in total. “Module overview”, “Weekly schedule”, and
 “Project” expand into their own groups of pages in the course navigation.
 
 ## Prerequisites
