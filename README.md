@@ -2,7 +2,7 @@
 
 ```text
 index.md                    Welcome to CS4218
-overview/index.md           Module overview
+overview/index.md           Module Overview
 overview/instructor.md      Meet the Instructor
 overview/piazza.md          Join Piazza For Discussions
 overview/faq.md             FAQ
@@ -23,7 +23,7 @@ relevant-links.md              Platforms, resources, and support
 deadlines-evaluation.md     Deadlines, weights, criteria, and rules
 ```
 
-There are 31 public pages in total. “Module overview”, “Weekly schedule”, and
+There are 31 public pages in total. “Module Overview”, “Weekly Schedule”, and
 “Project” expand into their own groups of pages in the course navigation.
 
 ## Prerequisites

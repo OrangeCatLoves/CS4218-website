@@ -1,6 +1,6 @@
 <site-nav>
 
-- **Module overview** :expanded:
+- **Module Overview** :expanded:
   - [Welcome to CS4218!]({{ baseUrl }}/index.html)
   - [Meet the Instructor]({{ baseUrl }}/overview/instructor.html)
   - [Module Overview]({{ baseUrl }}/overview/index.html)
@@ -9,7 +9,7 @@
   - [Recordings]({{ baseUrl }}/overview/recordings.html)
   - [Venue]({{ baseUrl }}/overview/venue.html)
   - [FAQ]({{ baseUrl }}/overview/faq.html)
-- **Weekly schedule** :expanded:
+- **Weekly Schedule** :expanded:
   - [13-week overview]({{ baseUrl }}/schedule/index.html)
   - [Week 1]({{ baseUrl }}/schedule/week1.html)
   - [Week 2]({{ baseUrl }}/schedule/week2.html)

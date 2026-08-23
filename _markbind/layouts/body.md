@@ -1,7 +1,7 @@
 <div id="course-shell">
   <nav id="site-nav" class="fixed-header-padding" aria-label="Course navigation">
     <div class="nav-heading">
-      <span class="nav-heading-label">Course guide</span>
+      <span class="nav-heading-label">Module guide</span>
       <strong>{{ moduleCode }}</strong>
     </div>
     <div class="nav-component">
