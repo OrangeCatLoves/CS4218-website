@@ -836,20 +836,6 @@ Tests: x passed,  x total
 </div>
 -->
 
-<h2 id="course-note-section-533">Mid-term: 15 % - Date/Time/Venue - TBD</h2>
-
-<p class="course-note-line">Examplify based exam.</p>
-
-<p class="course-note-line">Open-book, closed internet, no AI allowed.</p>
-
-<p class="course-note-line">Physical notes are allowed.</p>
-
-<p class="course-note-line">Digital notes are also allowed but only on your laptop (i.e,. no tablets).</p>
-
-<p class="course-note-line">Approx. 30 objective-type questions.</p>
-
-<p class="course-note-line">Expect fill in the blanks, MCQ, and MRQ type questions.</p>
-
 <h2 id="course-note-section-542">Lab Attendance: 2%</h2>
 
 <p class="course-note-line">There are 5 labs in total; each lab counts for 0.5% of the attendance marks, up to a maximum of 2%.</p>

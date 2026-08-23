@@ -43,6 +43,10 @@
   </table>
 </div>
 
+<h2>Mid-term Exam</h2>
+
+<p>The Mid-term Exam is an Examplify-based exam. It is open-book with closed internet and no AI allowed. Physical notes are allowed, and digital notes are also allowed but only on your laptop (i.e., no tablets). There are approximately 30 objective-type questions, including fill in the blanks, MCQ, and MRQ type questions.</p>
+
 <!--
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Module Schedule" tabindex="0">
   <table class="wide-data course-note-table course-schedule-table">
