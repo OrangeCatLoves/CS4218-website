@@ -10,6 +10,11 @@
   </p>
 </header>
 
+<div class="callout callout-info">
+  <div class="callout-title">Module Schedule</div>
+  <p>View the <a href="{{ baseUrl }}/schedule/index.html">13-week schedule</a>.</p>
+</div>
+
 <h2>Module Components</h2>
 
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Module Components" tabindex="0">
@@ -37,3 +42,138 @@
     </tbody>
   </table>
 </div>
+
+<!--
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Module Schedule" tabindex="0">
+  <table class="wide-data course-note-table course-schedule-table">
+    <thead>
+      <tr>
+        <th scope="col">Week</th>
+        <th scope="col">Lecture Briefing</th>
+        <th scope="col">Project Activity</th>
+        <th scope="col">Lab</th>
+        <th scope="col">Project Management</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">01</th>
+        <td>Introduction</td>
+        <td>No Physical class due to public holiday</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">02</th>
+        <td>Unit Testing</td>
+        <td>Team formation</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">03</th>
+        <td>Test Pyramid, Code Coverage</td>
+        <td></td>
+        <td>Lab 01 - Intro to Project, Project Setup/Management, Unit Testing</td>
+        <td>Sprint 1 Planning</td>
+      </tr>
+      <tr>
+        <th scope="row">04</th>
+        <td>Control Flow Testing</td>
+        <td></td>
+        <td>Lab 02 - Unit Testing (Cont'd), CI</td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">05</th>
+        <td>Test Generation Techniques</td>
+        <td></td>
+        <td>Lab 03 - Code Coverage</td>
+        <td>Sprint 1 Review<br>
+Sprint 2 Planning</td>
+      </tr>
+      <tr>
+        <th scope="row">06</th>
+        <td>Lunar New Year Holidays</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">Recess</th>
+        <td></td>
+        <td>Milestone 1 submission</td>
+        <td></td>
+        <td>Sprint 2 Review</td>
+      </tr>
+      <tr>
+        <th scope="row">07</th>
+        <td>Combinatorial Testing</td>
+        <td></td>
+        <td>Lab 04 - UI Testing with Playwright</td>
+        <td>Sprint 3 Planning</td>
+      </tr>
+      <tr>
+        <th scope="row">08</th>
+        <td>Performance Testing<br>
+Mid-term exam<br>
+Saturday<br>
+9:30 AM to 10:30 AM<br>
+Venue: MPSH 2B</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">09</th>
+        <td>No Briefing</td>
+        <td>Milestone 2 submission</td>
+        <td>Lab 05 - Non Functional Testing</td>
+        <td>Sprint 3 Review<br>
+Sprint 4 Planning</td>
+      </tr>
+      <tr>
+        <th scope="row">10</th>
+        <td>Security Testing</td>
+        <td>Milestone 2 submission</td>
+        <td>Lab 05 - Non Functional Testing</td>
+        <td>Sprint 3 Review<br>
+Sprint 4 Planning</td>
+      </tr>
+      <tr>
+        <th scope="row">11</th>
+        <td>Test Metrics</td>
+        <td></td>
+        <td></td>
+        <td>Sprint 4 Review<br>
+Sprint 5 Planning</td>
+      </tr>
+      <tr>
+        <th scope="row">12</th>
+        <td>SE Testing Methods Used in AI</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">13</th>
+        <td>No briefing, Agile Testing(Self-study)</td>
+        <td>Final Milestone 3 Submission<br>
+Final Presentation</td>
+        <td></td>
+        <td>Sprint 4 Review</td>
+      </tr>
+      <tr>
+        <th scope="row">Exam </th>
+        <td>Final Exam:<br>
+05-May-2026<br>
+9:00 AM to 11:00 AM<br>
+Venue: TBD</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+-->
