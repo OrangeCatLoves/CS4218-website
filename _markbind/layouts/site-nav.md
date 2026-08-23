@@ -2,13 +2,13 @@
 
 - **Module overview** :expanded:
   - [Welcome to CS4218!]({{ baseUrl }}/index.html)
-  - [Module Overview]({{ baseUrl }}/overview/index.html)
   - [Meet the Instructor]({{ baseUrl }}/overview/instructor.html)
-  - [Join Piazza and Telegram]({{ baseUrl }}/overview/piazza.html)
-  - [FAQ]({{ baseUrl }}/overview/faq.html)
+  - [Module Overview]({{ baseUrl }}/overview/index.html)
   - [Module Policies]({{ baseUrl }}/overview/module-policies.html)
+  - [Join Piazza and Telegram]({{ baseUrl }}/overview/piazza.html)
   - [Recordings]({{ baseUrl }}/overview/recordings.html)
   - [Venue]({{ baseUrl }}/overview/venue.html)
+  - [FAQ]({{ baseUrl }}/overview/faq.html)
 - **Weekly schedule** :expanded:
   - [13-week overview]({{ baseUrl }}/schedule/index.html)
   - [Week 1]({{ baseUrl }}/schedule/week1.html)
