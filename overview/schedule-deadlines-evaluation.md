@@ -836,14 +836,4 @@ Tests: x passed,  x total
 </div>
 -->
 
-<h2 id="course-note-section-562">Final Exam: 40%</h2>
-
-<p class="course-note-line">Examplify based exam.</p>
-
-<p class="course-note-line">Open-book, closed internet, no AI allowed.</p>
-
-<p class="course-note-line">Physical notes are allowed.</p>
-
-<p class="course-note-line">Digital notes are also allowed but only on your laptop (i.e,. no tablets).</p>
-
 </section>

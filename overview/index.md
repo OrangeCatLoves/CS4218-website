@@ -77,6 +77,10 @@
   <p>Online submissions for lab exercises are due <strong>Sunday 12:00 PM</strong> on the same week.</p>
 </div>
 
+<h2>Final Exam</h2>
+
+<p>The Final Exam is an Examplify-based exam. It is open-book with closed internet and no AI allowed. Physical notes are allowed, and digital notes are also allowed but only on your laptop (i.e., no tablets).</p>
+
 <!--
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Module Schedule" tabindex="0">
   <table class="wide-data course-note-table course-schedule-table">
