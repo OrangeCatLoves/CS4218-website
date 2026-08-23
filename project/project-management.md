@@ -53,5 +53,5 @@ Your stories should follow the following key requirements:
 
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
-  <p>All stories are to be created and completed on <strong>TROFOS</strong>.</p>
+  <p>All stories are to be created and completed on <strong><a href="https://trofos-production.comp.nus.edu.sg/">TROFOS</a></strong>. Head over and log in via <strong>NUS (Student)</strong>, then have one member create the sprint so that everyone can start creating and completing their respective stories.</p>
 </div>
