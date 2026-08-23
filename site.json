@@ -24,7 +24,7 @@
     },
     {
       "glob": "overview/**/*.md",
-      "title": "Course Overview",
+      "title": "Module Overview",
       "layout": "default.md"
     },
     {

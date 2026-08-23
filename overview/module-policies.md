@@ -3,7 +3,7 @@
   pageNav: 2
 </frontmatter>
 
-<section id="course-policies" class="course-note">
+<section id="module-policies" class="course-note">
   <header class="page-header">
     <h1>Module Policies</h1>
   </header>
