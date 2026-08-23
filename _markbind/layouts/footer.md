@@ -7,7 +7,6 @@
     <nav class="footer-links" aria-label="Footer">
       <a href="{{ baseUrl }}/index.html">Overview</a>
       <a href="{{ baseUrl }}/schedule/index.html">Schedule</a>
-      <a href="{{ baseUrl }}/overview/schedule-deadlines-evaluation.html">Deadlines & evaluation</a>
     </nav>
     <small>Generated with MarkBind on {{ timestamp }}.</small>
   </div>
