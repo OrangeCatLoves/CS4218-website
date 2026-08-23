@@ -856,18 +856,6 @@ Tests: x passed,  x total
 
 <p class="course-note-line">If you are unsure, do check with your Lab TA first.</p>
 
-<h2 id="course-note-section-554">Quizzes: 6%</h2>
-
-<p class="course-note-line">Conducted via Canvas throughout the semester (6%)</p>
-
-<p class="course-note-line">Solutions for the quiz will be mostly discussed in the class every week during the briefing and will be available as a recording</p>
-
-<p class="course-note-line">Ansynchronous quiz. You have time from one Monday evening to next Sunday midnight Singapore time to complete the quiz </p>
-
-<p class="course-note-line">No extensions granted for any of the weeks</p>
-
-<p class="course-note-line">Two attempts each quiz, Best attempt taken for marking</p>
-
 <h2 id="course-note-section-562">Final Exam: 40%</h2>
 
 <p class="course-note-line">Examplify based exam.</p>

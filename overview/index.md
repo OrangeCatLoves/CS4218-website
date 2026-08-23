@@ -47,6 +47,20 @@
 
 <p>The Mid-term Exam is an Examplify-based exam. It is open-book with closed internet and no AI allowed. Physical notes are allowed, and digital notes are also allowed but only on your laptop (i.e., no tablets). There are approximately 30 objective-type questions, including fill in the blanks, MCQ, and MRQ type questions.</p>
 
+<h2>Asynchronous Quizzes</h2>
+
+<p>There will be multiple quizzes throughout the semester, each asynchronous. Some solutions will be discussed during the weekly briefings and will be available as recordings.</p>
+
+<div class="callout callout-warning">
+  <div class="callout-title">Deadline</div>
+  <p>You have from one <strong>Monday evening</strong> to the next <strong>Sunday midnight</strong> to complete each quiz. As per module policy, <strong>no extensions will be granted</strong>.</p>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>Submit your quiz on Canvas. You get <strong>two attempts</strong> per quiz, and your <strong>best attempt</strong> will be taken for marking.</p>
+</div>
+
 <!--
 <div class="table-scroll course-note-table-scroll" role="region" aria-label="Module Schedule" tabindex="0">
   <table class="wide-data course-note-table course-schedule-table">
