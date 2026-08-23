@@ -11,7 +11,7 @@
 
 <div class="callout callout-info">
   <div class="callout-title">Project TA</div>
-  <p>If you have any project-related questions — for example, implementation details, testing approaches, or clarification of project requirements — contact your respective Project TA via Telegram or email directly, as they will be responsible for grading your work. Your Project TA is not necessarily your Lab TA — refer to the Project TA allocation in the first lab's slides.</p>
+  <p>If you have any project-related questions — for example, implementation details, testing approaches, or clarification of project requirements — contact your respective Project TA via Telegram or email directly, as they will be responsible for grading your work. <strong>Your Project TA is not necessarily your Lab TA</strong> — refer to the Project TA allocation in the first lab's slides.</p>
 </div>
 
 ## How Components Are Graded
