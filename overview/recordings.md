@@ -84,18 +84,19 @@
   <article class="recording-card">
     <h3>Week 13 - Agile Testing</h3>
     <p>Self-study, no briefing</p>
-  </article>
+  </article> -->
 </section>
 
 <section class="recording-group">
   <h2>Labs</h2>
 
   <article class="recording-card">
-    <h3>Week 3 - Lab 1</h3>
-    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/Gebv4EfMMnGQo5xHLDP1PaBvDSQFPH3OF8bQIi39vjOLLdUypdaDT-x1pou2JEPB.9bin2brEqiInhiWN" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/Gebv4EfMMnGQo5xHLDP1PaBvDSQFPH3OF8bQIi39vjOLLdUypdaDT-x1pou2JEPB.9bin2brEqiInhiWN</a>Links to an external site.</p>
-    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">4ctb2+!9</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 3 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+    <h3>Week 3 - Project Introduction &amp; Unit Testing (Part 1)</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/SJRN4fWHB63PmIn36Tk7fuZUd1pyN2vXL14NjISMTCCl8kJc7JjyQGpx3mpSPawe.HKYGCXvfkQUI3xAK" target="_blank" rel="noopener noreferrer">Project Introduction &amp; Unit Testing (Part 1)</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">n%wq46PK</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 3 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
+  <!--
   <article class="recording-card">
     <h3>Week 4 - Lab 2</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/nGFneYzdp8hh4xaqb6KHQVxxS53IVV1dej7Vk6iOt9Gulsw92cz3ULMp_9kZo91k.1INc0Xk7-eH_gl6C" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/nGFneYzdp8hh4xaqb6KHQVxxS53IVV1dej7Vk6iOt9Gulsw92cz3ULMp_9kZo91k.1INc0Xk7-eH_gl6C</a>Links to an external site.</p>
@@ -118,6 +119,6 @@
     <h3>Week 10 - Lab 5</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/feKmgKWAt0qiTxkjLKkG9gX7zDLsHcErfszlmj8nghJxEyVPRnxKaGnAx9pmzWrX.oMAh5cDPDRAkzMCN" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/feKmgKWAt0qiTxkjLKkG9gX7zDLsHcErfszlmj8nghJxEyVPRnxKaGnAx9pmzWrX.oMAh5cDPDRAkzMCN</a>Links to an external site.</p>
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">%#UPf%9Y</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 10 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
-  </article>
+  </article> -->
 </section>
-</div> -->
+</div>
