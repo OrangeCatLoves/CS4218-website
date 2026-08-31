@@ -33,6 +33,12 @@
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">?+i1Ti4q</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 3 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
+   <article class="recording-card">
+    <h3>Week 4 - Control Flow Graphs</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/yZ7mM2qffYYoaNeTJGRlrGOOqf-47bv8uGwaQv97zN2CrK84zEfimL_GeFVvhGM.4fxoXEzmTAtdibC2" target="_blank" rel="noopener noreferrer">INTEGRATION TESTING</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">vyM&!9+4</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 3 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
   <!-- <article class="recording-card">
     <h3>Week 3 - Integration Testing and Code Coverage</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q</a></p>
