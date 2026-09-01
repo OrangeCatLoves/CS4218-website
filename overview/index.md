@@ -33,7 +33,7 @@
       <tr><td>Milestone 3</td><td>15</td><td>Week 13</td></tr>
       <tr><td>Project Management</td><td>2</td><td>Week 9 and Week 11</td></tr>
       <tr class="graded-group-row"><td>Continuous Assessment Tests</td><td></td><td></td></tr>
-      <tr><td>Mid-term Exam</td><td>15</td><td>TBD</td></tr>
+      <tr><td>Mid-term Exam</td><td>15</td><td>Monday, 28 September</td></tr>
       <tr><td>Asynchronous Quizzes</td><td>6</td><td>Week 2 to Week 12</td></tr>
       <tr class="graded-group-row"><td>Attendance</td><td></td><td></td></tr>
       <tr><td>Lab Attendance</td><td>2</td><td>Weeks 3, 4, 5, 7, 9 and 10</td></tr>
@@ -46,6 +46,22 @@
 <h2>Mid-term Exam</h2>
 
 <p>The Mid-term Exam is an Examplify-based exam. It is open-book with closed internet and no AI allowed. Physical notes are allowed, and digital notes are also allowed but only on your laptop (i.e., no tablets). There are approximately 30 objective-type questions, including fill in the blanks, MCQ, and MRQ type questions.</p>
+
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Mid-term Exam details" tabindex="0">
+  <table class="wide-data course-note-table">
+    <tbody>
+      <tr><th scope="row">Date</th><td>Monday, 28 September</td></tr>
+      <tr><th scope="row">Time</th><td>2:00 PM &ndash; 3:00 PM (14:00 &ndash; 15:00)</td></tr>
+      <tr><th scope="row">Venue</th><td>MPSH 2A</td></tr>
+      <tr><th scope="row">Scope / Topics Covered</th><td>Week 1 to Week 6 materials</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="callout callout-warning">
+  <div class="callout-title">Arrival</div>
+  <p>Please ensure that you arrive at the venue at least <strong>15 minutes</strong> before the test begins.</p>
+</div>
 
 <h2>Asynchronous Quizzes</h2>
 
