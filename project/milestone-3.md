@@ -120,7 +120,9 @@ Details will be updated soon.
 Your report should cover the following components:
 
 - **Performance test approach:** Which components you selected to test, why those components were selected, how you tested those components, which metrics you selected and why, etc.
-- **Graphical test statistics:** Test statistics presented in a graphical way (e.g., pie charts, bar charts), **combined across all 3 milestones**, covering things such as the number of tests identified, tests automated, bugs identified, and bugs fixed. Tables are **not** counted as graphs.
+- **Graphical test statistics:** Test statistics presented in a graphical way (e.g., pie charts, bar charts). Tables are **not** counted as graphs. This should have two portions:
+  - **Performance test statistics:** Identify what metrics (learned in the class or otherwise) are suitable for your test type (e.g., response time, error rate, etc.) and generate statistics based on those metrics.
+  - **Combined test statistics:** Test statistics **combined across all 3 milestones**, covering things such as the number of tests identified, tests automated, bugs identified, and bugs fixed.
 - **AI-driven security testing:** Details will be updated soon.
 
 The report has a strict **3 page limit**.
@@ -131,12 +133,9 @@ The report has a strict **3 page limit**.
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
-        <th scope="col" colspan="2" style="text-align: center;">Performance Testing (2%)</th>
-        <th scope="col" rowspan="2" style="text-align: center;">AI-driven Security Testing (2%)</th>
-      </tr>
-      <tr>
-        <th scope="col">Approach Description (1%)</th>
+        <th scope="col">Performance Testing Approach (1%)</th>
         <th scope="col">Graphical Test Statistics (1%)</th>
+        <th scope="col">AI-driven Security Testing (2%)</th>
       </tr>
     </thead>
     <tbody>
