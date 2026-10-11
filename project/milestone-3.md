@@ -117,7 +117,46 @@ Details will be updated soon.
   <p>This section is worth <strong>4%</strong> of your final grade.</p>
 </div>
 
-Details will be updated soon.
+Your report should cover the following components:
+
+- **Performance test approach:** Which components you selected to test, why those components were selected, how you tested those components, etc.
+- **Graphical test statistics:** Test statistics presented in a graphical way (e.g., pie charts, bar charts), **combined across all 3 milestones**, covering things such as the number of tests identified, tests automated, bugs identified, and bugs fixed. Tables are **not** counted as graphs.
+- **AI-driven security testing:** Details will be updated soon.
+
+The report has a strict **3 page limit**.
+
+### Grading Rubric
+
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 3: 15% - Week 13 Tuesday 12 PM — Report 4% (Individual) — Grading Rubric" tabindex="0">
+  <table class="wide-data course-note-table course-note-rubric">
+    <thead>
+      <tr>
+        <th scope="col" colspan="2" style="text-align: center;">Performance Testing (2%)</th>
+        <th scope="col" rowspan="2" style="text-align: center;">AI-driven Security Testing (2%)</th>
+      </tr>
+      <tr>
+        <th scope="col">Approach Description (1%)</th>
+        <th scope="col">Graphical Test Statistics (1%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0: Poor or missing approach description</td>
+        <td>0: Poor or missing graphical statistics</td>
+        <td rowspan="2">Details will be updated soon.</td>
+      </tr>
+      <tr>
+        <td>1: Clear and well-reasoned approach description</td>
+        <td>1: Clear and well-presented graphical statistics</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>Collate the reports from your group members and submit one PDF on Canvas (only one member needs to make the submission for the whole group).</p>
+</div>
 
 ## Presentation 👤 + 👥
 
