@@ -16,7 +16,10 @@
   <p>This section is worth <strong>3%</strong> of your final grade.</p>
 </div>
 
-Identify and automate performance tests using **Grafana k6**. Automate one type of performance test per person for the submission (e.g., load testing, stress testing, spike testing, soak testing, etc.). Test types can't be repeated among group members. For example, if one member does load testing, it can't be done by anyone else in the group. It is fine to test the same component as another group member, as long as your testing type is different.
+Identify and automate performance tests using **Grafana k6**. Automate one type of performance test per person for the submission (e.g., load testing, stress testing, spike testing, soak testing, etc.).
+
+- **Same test type as a groupmate:** the components you test must not overlap.
+- **Different test type from a groupmate:** overlapping components is fine.
 
 It is up to you to determine the number of tests to automate as this can sometimes depend on your test type. That said, typically testing a few significant components appropriate for your test type is sufficient.
 
@@ -35,11 +38,11 @@ It is up to you to determine the number of tests to automate as this can sometim
     <tbody>
       <tr>
         <td>0: There are issues with the implementation that compromise its validity.</td>
-        <td>0: Performance test type is not unique within the group (all members with the same test type will be penalized).</td>
+        <td>0: Performance tests are not unique within the group (same test type as a groupmate on overlapping components; all members involved will be penalized).</td>
       </tr>
       <tr>
         <td>1: Implementation is mostly logical, but the performance testing is only partially demonstrated.</td>
-        <td>1: Performance test type is unique within the group.</td>
+        <td>1: Performance tests are unique within the group (different test type from groupmates, or the same test type on non-overlapping components).</td>
       </tr>
       <tr>
         <td>2: Implementation is logical and performance testing is clearly being done.</td>
