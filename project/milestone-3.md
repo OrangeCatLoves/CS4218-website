@@ -119,7 +119,7 @@ Details will be updated soon.
 
 Your report should cover the following components:
 
-- **Performance test approach:** Which components you selected to test, why those components were selected, how you tested those components, etc.
+- **Performance test approach:** Which components you selected to test, why those components were selected, how you tested those components, which metrics you selected and why, etc.
 - **Graphical test statistics:** Test statistics presented in a graphical way (e.g., pie charts, bar charts), **combined across all 3 milestones**, covering things such as the number of tests identified, tests automated, bugs identified, and bugs fixed. Tables are **not** counted as graphs.
 - **AI-driven security testing:** Details will be updated soon.
 
