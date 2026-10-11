@@ -161,6 +161,11 @@ The presentation is graded **solely on your communication skills**. The content 
   </table>
 </div>
 
+<div class="callout callout-info">
+  <div class="callout-title">Note</div>
+  <p>The group demo is tentatively only for General AI-driven Testing. AI-driven Security Testing might also be included. Details will be updated soon.</p>
+</div>
+
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
   <p>There is nothing to submit for this one! Simply show up at your allocated time slot and present.</p>
