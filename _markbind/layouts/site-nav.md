@@ -21,8 +21,8 @@
   - [Week 7]({{ baseUrl }}/schedule/week7.html) -->
   - [Week 8]({{ baseUrl }}/schedule/week8.html)
   - [Week 9]({{ baseUrl }}/schedule/week9.html)
-   <!-- - [Week 10]({{ baseUrl }}/schedule/week10.html)
-  - [Week 11]({{ baseUrl }}/schedule/week11.html)
+  - [Week 10]({{ baseUrl }}/schedule/week10.html)
+   <!-- - [Week 11]({{ baseUrl }}/schedule/week11.html)
   - [Week 12]({{ baseUrl }}/schedule/week12.html)
   - [Week 13]({{ baseUrl }}/schedule/week13.html)
   - [Reading Week]({{ baseUrl }}/schedule/readingweek2.html) -->
