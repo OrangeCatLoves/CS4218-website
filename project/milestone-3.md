@@ -71,7 +71,7 @@ AI-driven testing refers to the use of AI-assisted techniques or tools to automa
 - AI-based test input generation.
 - AI-based code/result analysis and reporting (e.g., identifying anti-patterns like brittle test cases, analysing logs).
 
-As a group, write a **two-page summary** on all the AI-driven testing approach(es) used throughout the milestones. Discuss their effectiveness and limitations, how you would improve them, and so on. Include detailed examples.
+As a group, write a **two-page summary** on all the AI-driven testing approach(es) used throughout the milestones (this excludes AI-driven security testing). Discuss their effectiveness and limitations, how you would improve them, and so on. Include detailed examples.
 
 ### Grading Rubric
 
@@ -105,16 +105,60 @@ As a group, write a **two-page summary** on all the AI-driven testing approach(e
 
 <div class="callout callout-info">
   <div class="callout-title">Weightage</div>
-  <p>This section is worth <strong>3%</strong> of your final grade.</p>
+  <p>This section is worth <strong>5%</strong> of your final grade.</p>
 </div>
 
-Details will be updated soon.
+Using the approach from the Week 10 lecture and Lab 06, use AI to generate tests that reach security checks in your Virtual Vault components.
+
+You may either keep the component assignments from Milestone 1 / 2 or re-divide the components among yourselves. Either way, remember to indicate in your **README** again who did which components for AI-driven security testing.
+
+First, run random testing on your components and record the coverage. Then pick security checks that the random tests did not reach (e.g., authentication, permission or input validation), write the expected state at each check as an assertion, and use AI to generate tests that reach them. Use coverage to confirm that each check was reached.
+
+Write a **one-page summary** covering the coverage before and after, the checks you targeted, whether the AI-generated tests reached them, and any problems found.
+
+**You are not required to fix any bugs found.**
+
+### Grading Rubric
+
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 3: 15% - Week 13 Tuesday 12 PM — AI-driven Security Testing 5% (Individual) — Grading Rubric" tabindex="0">
+  <table class="wide-data course-note-table course-note-rubric">
+    <thead>
+      <tr>
+        <th scope="col">Test Generation (3%)</th>
+        <th scope="col">Summary (2%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0: No AI-generated tests.</td>
+        <td>0: Summary missing.</td>
+      </tr>
+      <tr>
+        <td>1: AI-generated tests written, but none reach their target check.</td>
+        <td>1: Results reported, but without a coverage comparison.</td>
+      </tr>
+      <tr>
+        <td>2: Some target checks reached, confirmed by coverage.</td>
+        <td>2: Clear before/after coverage and results for each targeted check.</td>
+      </tr>
+      <tr>
+        <td>3: Several target checks reached, each confirmed by coverage and with an assertion.</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>Include your code as part of the <strong>ms3</strong> tag, and append the one-page summary at the <strong>end of your individual Milestone 3 report</strong>.</p>
+</div>
 
 ## Report 👤
 
 <div class="callout callout-info">
   <div class="callout-title">Weightage</div>
-  <p>This section is worth <strong>4%</strong> of your final grade.</p>
+  <p>This section is worth <strong>2%</strong> of your final grade.</p>
 </div>
 
 Your report should cover the following components:
@@ -123,26 +167,23 @@ Your report should cover the following components:
 - **Graphical test statistics:** Test statistics presented in a graphical way (e.g., pie charts, bar charts). Tables are **not** counted as graphs. This should have two portions:
   - **Performance test statistics:** Identify what metrics (learned in the class or otherwise) are suitable for your test type (e.g., response time, error rate, etc.) and generate statistics based on those metrics.
   - **Combined test statistics:** Test statistics **combined across all 3 milestones**, covering things such as the number of tests identified, tests automated, bugs identified, and bugs fixed.
-- **AI-driven security testing:** Details will be updated soon.
 
-The report has a strict **3 page limit**.
+The report has a strict **3 page limit** (this limit excludes the AI-driven Security Testing summary).
 
 ### Grading Rubric
 
-<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 3: 15% - Week 13 Tuesday 12 PM — Report 4% (Individual) — Grading Rubric" tabindex="0">
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 3: 15% - Week 13 Tuesday 12 PM — Report 2% (Individual) — Grading Rubric" tabindex="0">
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
         <th scope="col">Performance Testing Approach (1%)</th>
         <th scope="col">Graphical Test Statistics (1%)</th>
-        <th scope="col">AI-driven Security Testing (2%)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>0: Poor or missing approach description</td>
         <td>0: Poor or missing graphical statistics</td>
-        <td rowspan="2">Details will be updated soon.</td>
       </tr>
       <tr>
         <td>1: Clear and well-reasoned approach description</td>
@@ -201,7 +242,7 @@ The presentation is graded **solely on your communication skills**. The content 
 
 <div class="callout callout-info">
   <div class="callout-title">Note</div>
-  <p>The group demo is tentatively only for General AI-driven Testing. AI-driven Security Testing might also be included. Details will be updated soon.</p>
+  <p>The group demo is only for General AI-driven Testing.</p>
 </div>
 
 <div class="callout callout-success">
