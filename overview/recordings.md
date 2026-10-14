@@ -143,6 +143,12 @@
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">vNDd*yy2</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 7 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
+  <article class="recording-card">
+    <h3>Week 9 - Performance Testing</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/Q9UZMrb-kUeymgTFZfeuqnK1zHQGX4mnf17sF-uDb7A2zMqdSvo9UL0zyDS-Tqj0.cyWEn3_Nb-qE75PO" target="_blank" rel="noopener noreferrer">Performance Testing</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">ZyyJKC0#</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 9 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
   <!--
   <article class="recording-card">
     <h3>Week 4 - Lab 2</h3>
