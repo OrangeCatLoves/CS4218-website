@@ -60,6 +60,9 @@
     <h3>Week 10 - Agentic AI-Driven Security Testing</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/xkmAwdfZBGMNR-fId_afr-70DJgtJGyNdoNUwdTg9dNEzz2JvW9dQdTQVwEKLWp9.yVlzTl8ryIKZoDrb" target="_blank" rel="noopener noreferrer">AGENTIC AI-DRIVEN SECURITY TESTING</a></p>
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">K4r!MB%w</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 10 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+    <h3>Week 9 - SE Testing Methods Used in AI</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/ycznDVT4zKYyXQOWUNTG1eze9PQV__6Bi-P3VNA0rBp_EY-nNy6ua0KIb3xbSlU.F4UTyXvfl2aPTFVl" target="_blank" rel="noopener noreferrer">SE TESTING METHODS USED IN AI</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">Z?s!c5&amp;u</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 9 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
   <!-- <article class="recording-card">
@@ -129,6 +132,24 @@
     <h3>Week 4 - Unit Testing (Part 2) &amp; Project Remarks</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/LkGDozakDswV_ussJs3xammqKYT-_VVE2LLXPtkqiWwE2j6u5sGCVUSEoUZFBxoS.IqeU6cQ_t_1TUnlj" target="_blank" rel="noopener noreferrer">Unit Testing (Part 2) &amp; Project Remarks</a></p>
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">L*wQ?1*D</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 4 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
+  <article class="recording-card">
+    <h3>Week 5 - Continuous Integration &amp; Code Coverage</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/gRomGMeiuryUM3Ce4JqWBv5LTNf8Va_UEOiFeYFpaeKYv1rcip1fNgF-0HQiWn2M.nPiVCL4Akj924mhB" target="_blank" rel="noopener noreferrer">Continuous Integration &amp; Code Coverage</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">CV0^0@SN</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 5 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
+  <article class="recording-card">
+    <h3>Week 7 - UI Testing &amp; Project Remarks</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/K5JrWyWYG2t650jyJ0i5zHEIfGEVUIhVTFQGPaQjrCjo2yON2OFzS4PnbCue-YkN.4z3ttnDl6kcweIFJ" target="_blank" rel="noopener noreferrer">UI Testing &amp; Project Remarks</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">vNDd*yy2</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 7 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
+  <article class="recording-card">
+    <h3>Week 9 - Performance Testing</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/Q9UZMrb-kUeymgTFZfeuqnK1zHQGX4mnf17sF-uDb7A2zMqdSvo9UL0zyDS-Tqj0.cyWEn3_Nb-qE75PO" target="_blank" rel="noopener noreferrer">Performance Testing</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">ZyyJKC0#</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 9 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
   <!--

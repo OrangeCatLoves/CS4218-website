@@ -45,6 +45,7 @@
 
   "pagesExclude": [
     "**/*-fragment.md",
+    "schedule/week9-combinatorial-testing.md",
     "project/setting-up.md",
     "project/unit-testing.md",
     "project/debugging.md",
