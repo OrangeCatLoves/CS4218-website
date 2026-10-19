@@ -57,6 +57,9 @@
   </article>
 
   <article class="recording-card">
+    <h3>Week 10 - Agentic AI-Driven Security Testing</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/xkmAwdfZBGMNR-fId_afr-70DJgtJGyNdoNUwdTg9dNEzz2JvW9dQdTQVwEKLWp9.yVlzTl8ryIKZoDrb" target="_blank" rel="noopener noreferrer">AGENTIC AI-DRIVEN SECURITY TESTING</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">K4r!MB%w</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 10 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
     <h3>Week 9 - SE Testing Methods Used in AI</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/ycznDVT4zKYyXQOWUNTG1eze9PQV__6Bi-P3VNA0rBp_EY-nNy6ua0KIb3xbSlU.F4UTyXvfl2aPTFVl" target="_blank" rel="noopener noreferrer">SE TESTING METHODS USED IN AI</a></p>
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">Z?s!c5&amp;u</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 9 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
