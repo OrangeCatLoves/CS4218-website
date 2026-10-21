@@ -110,7 +110,7 @@ As a group, write a **two-page summary** on all the AI-driven testing approach(e
 
 Using the approach from the Week 10 lecture and Lab 06, use AI to generate tests that reach security checks in your Virtual Vault components.
 
-You may either keep the component assignments from Milestone 1 / 2 or re-divide the components among yourselves. Either way, remember to indicate in your **README** again who did which components for AI-driven security testing.
+Similar to performance testing, each of you should identify a few significant components to test; you do not need to test all the components. **The components tested by each group member must not overlap.** Remember to indicate in your **README** who did which components for AI-driven security testing.
 
 First, run random testing on your components and record the coverage. Then pick security checks that the random tests did not reach (e.g., authentication, permission or input validation), write the expected state at each check as an assertion, and use AI to generate tests that reach them. Use coverage to confirm that each check was reached.
 
