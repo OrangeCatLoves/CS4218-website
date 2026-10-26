@@ -68,6 +68,12 @@
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">K4r!MB%w</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 10 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
+  <article class="recording-card">
+    <h3>Week 11 - Test Metrics</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/ZEuTuyqtU8ag4ew4Omy-oYch-xWoOvew41uyHmUnj6-4T0U4S0Pf5dVCPAzuQReN.-HLmcd5CkMLjnrNp" target="_blank" rel="noopener noreferrer">TEST METRICS</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">+VY5KbE@</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 11 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
   <!-- <article class="recording-card">
     <h3>Week 3 - Integration Testing and Code Coverage</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q</a></p>
